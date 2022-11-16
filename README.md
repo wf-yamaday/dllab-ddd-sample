@@ -1,6 +1,6 @@
 # DLLAB DDD Sample
 
-[エンタープライズAIとモダンアプリケーション開発の実践~ISID✕Microsoft~ #2](https://dllab.connpass.com/event/259408/)の「AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス​」セッションで紹介したコードを置いているリポジトリです。
+[エンタープライズAIとモダンアプリケーション開発の実践〜ISID ✕ Microsoft〜 #2](https://dllab.connpass.com/event/259408/)での「AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス」セッションで紹介したコードを置いているリポジトリです。
 
 ## プロジェクト構成
 
