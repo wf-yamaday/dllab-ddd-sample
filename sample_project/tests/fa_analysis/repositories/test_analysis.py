@@ -23,5 +23,4 @@ class TestAnalysisRepository:
         analysis = Analysis(id=1, name="分析サンプル", answers=answers)
         result = self.repository.save(analysis=analysis)
 
-        assert result.id == analysis.id
-        assert result.answers == analysis.answers
+        assert result == analysis
