@@ -2,6 +2,12 @@
 
 [エンタープライズAIとモダンアプリケーション開発の実践〜ISID ✕ Microsoft〜 #2](https://dllab.connpass.com/event/259408/)での「AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス」セッションで紹介したコードを置いているリポジトリです。
 
+## 発表資料
+
+当日の発表資料はSpeaker Deckで公開しています。
+
+[![AI組織でのアプリケーション開発の裏側 - Django × DDDでの開発プラクティス](./img/title.png)](https://speakerdeck.com/isidaitc/aizu-zhi-denoapurikesiyonkai-fa-noli-ce-django-x-ddddenokai-fa-purakuteisu)
+
 ## プロジェクト構成
 
 プロジェクトルートの`sample_project`配下がDjangoのプロジェクトです。  
